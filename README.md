@@ -43,7 +43,7 @@ This project is a MERN stack application for managing admin users, agents, and t
 ## Technology Stack
 
 ### Frontend:
-- **React.js / Next.js**
+- **React.js **
 - **Tailwind CSS** (for UI styling)
 
 ### Backend:
