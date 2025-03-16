@@ -59,7 +59,7 @@ This project is a MERN stack application for managing admin users, agents, and t
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/muthalakshya/Admin-Agent-Management-System.git
 cd your-project-folder
 ```
 
