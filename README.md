@@ -1,4 +1,4 @@
-# MERN Stack Assignment - Admin & Agent Management System.
+# MERN Stack Assignment - Admin & Agent Management System
 
 ## Objective
 This project is a MERN stack application for managing admin users, agents, and task distribution. The key features include:
